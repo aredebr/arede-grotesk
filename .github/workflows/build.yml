@@ -1,0 +1,31 @@
+name: Build
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+      - name: Install build tools
+        run: pip install -r requirements.txt
+      - name: Build fonts
+        run: ./scripts/build.sh
+      - name: Check fonts (Fontbakery, universal profile)
+        run: fontbakery check-universal --succinct -l WARN --html fontbakery-report.html fonts/otf/*.otf fonts/ttf/*.ttf
+        continue-on-error: true
+      - name: Upload fonts and report
+        uses: actions/upload-artifact@v4
+        with:
+          name: arede-grotesk-fonts
+          path: |
+            fonts/
+            fontbakery-report.html

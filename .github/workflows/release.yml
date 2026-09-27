@@ -1,0 +1,37 @@
+name: Release
+
+on:
+  push:
+    tags: ["v*"]
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+      - name: Install build tools
+        run: pip install -r requirements.txt
+      - name: Build fonts
+        run: ./scripts/build.sh
+      - name: Package
+        run: |
+          VERSION="${GITHUB_REF_NAME#v}"
+          PKG="AredeGrotesk-$VERSION"
+          mkdir -p "dist/$PKG"
+          cp -r fonts/otf fonts/ttf fonts/webfonts "dist/$PKG/"
+          cp OFL.txt README.md CHANGELOG.md "dist/$PKG/"
+          (cd dist && zip -r "$PKG.zip" "$PKG")
+          echo "PKG=$PKG" >> "$GITHUB_ENV"
+      - name: Publish release
+        uses: softprops/action-gh-release@v2
+        with:
+          name: Arede Grotesk ${{ github.ref_name }}
+          body_path: .github/release-notes.md
+          files: dist/${{ env.PKG }}.zip
