@@ -16,7 +16,7 @@ jobs:
   release:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
           fetch-depth: 0
       - name: Resolve version and tag
@@ -34,7 +34,7 @@ jobs:
           fi
           echo "VERSION=$VERSION" >> "$GITHUB_ENV"
           echo "TAG=$TAG" >> "$GITHUB_ENV"
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.0
         with:
           python-version: "3.11"
           cache: pip
@@ -51,9 +51,14 @@ jobs:
           (cd dist && zip -r "$PKG.zip" "$PKG")
           echo "PKG=$PKG" >> "$GITHUB_ENV"
       - name: Publish release
-        uses: softprops/action-gh-release@v2
-        with:
-          tag_name: ${{ env.TAG }}
-          name: Arede Grotesk ${{ env.TAG }}
-          body_path: .github/release-notes.md
-          files: dist/${{ env.PKG }}.zip
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if gh release view "$TAG" >/dev/null 2>&1; then
+            gh release upload "$TAG" "dist/$PKG.zip" --clobber
+          else
+            gh release create "$TAG" "dist/$PKG.zip" \
+              --title "Arede Grotesk $TAG" \
+              --notes-file .github/release-notes.md \
+              --verify-tag
+          fi
