@@ -62,7 +62,9 @@ pip install -r requirements.txt
 ./scripts/build.sh
 ```
 
-Fonts land in `fonts/`. GitHub Actions builds and checks the fonts on every push, and publishes a release on every `v*` tag.
+Fonts land in `fonts/`. Builds are reproducible: the fonts are stamped with the date of the last commit that changed `sources/`, so rebuilding unchanged sources gives identical files. GitHub Actions builds and checks the fonts on every push.
+
+To release, add a `## X.Y.Z — YYYY-MM-DD` section to `CHANGELOG.md`, then run the *Release* workflow from the Actions tab (or push a `vX.Y.Z` tag). The release notes are that CHANGELOG section plus the footer in `.github/release-notes.md`; preview them with `./scripts/release_notes.sh X.Y.Z`.
 
 ## Credits and license
 

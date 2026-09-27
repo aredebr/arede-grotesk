@@ -4,3 +4,4 @@ build/
 master_ufo/
 instance_ufo/
 .DS_Store
+.venv/
