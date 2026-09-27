@@ -47,7 +47,7 @@ https://cdn.jsdelivr.net/gh/aredebr/arede-grotesk@v1.1.0/fonts/webfonts/AredeGro
 
 ## About version 1.1
 
-Version 1.1 refines the drawing. The m is now the n arch repeated twice, with the same notch where the arch leaves the stem and a cleaner line along the x-height. The f loses the corner where the hook meets the stem. In A, M, N, V and W the joints of the diagonals are as thick as the horizontal bars, so these capitals no longer look lighter at the apex and at the base.
+Version 1.1 refines the drawing. The m is now the n arch repeated twice, with the same notch where the arch leaves the stem and a cleaner line along the x-height. The f loses the corner where the hook meets the stem. In A, M, N, V and W the joints of the diagonals are as thick as the horizontal bars, so these capitals no longer look lighter at the apex and at the base. The figures take the same weights as the capitals, and the 1 and the 4 get a heavier top.
 
 Version 1.0 redesigned the lowercase core. The letters a, r, e and d are the wordmark itself; b, c, f, h, i, m, n, o, p, q and u are built from them; k, l and j follow the new ascender height. Every accented form of these letters follows automatically. All other glyphs — the remaining lowercase, the capitals, figures, punctuation and symbols — come from Space Grotesk, so the character set is complete and production-ready.
 
