@@ -12,7 +12,7 @@ It is derived from [Space Grotesk](https://github.com/floriankarsten/space-grote
 
 ## Download
 
-**[Download Arede Grotesk 1.0](https://github.com/aredebr/arede-grotesk/releases/latest)** — OTF, TTF and WOFF2, with the license.
+**[Download Arede Grotesk 1.1](https://github.com/aredebr/arede-grotesk/releases/latest)** — OTF, TTF and WOFF2, with the license.
 
 ## Install
 
@@ -35,7 +35,7 @@ body { font-family: "Arede Grotesk", "Space Grotesk", sans-serif; }
 You can also load it straight from this repository through jsDelivr, with nothing to host:
 
 ```
-https://cdn.jsdelivr.net/gh/aredebr/arede-grotesk@v1.0.0/fonts/webfonts/AredeGrotesk-Regular.woff2
+https://cdn.jsdelivr.net/gh/aredebr/arede-grotesk@v1.1.0/fonts/webfonts/AredeGrotesk-Regular.woff2
 ```
 
 ## Features
@@ -45,9 +45,11 @@ https://cdn.jsdelivr.net/gh/aredebr/arede-grotesk@v1.0.0/fonts/webfonts/AredeGro
 - `ss06`: n with both corners rounded (`font-feature-settings: "ss06"`).
 - Space Grotesk's OpenType features are kept: stylistic sets ss01–ss05, tabular and old-style figures, fractions, slashed zero, case-sensitive punctuation.
 
-## About version 1.0
+## About version 1.1
 
-Version 1.0 redesigns the lowercase core. The letters a, r, e and d are the wordmark itself; b, c, f, h, i, m, n, o, p, q and u are built from them; k, l and j follow the new ascender height. Every accented form of these letters follows automatically. All other glyphs — the remaining lowercase, the capitals, figures, punctuation and symbols — are inherited unchanged from Space Grotesk, so the character set is complete and production-ready.
+Version 1.1 refines the drawing. The m is now the n arch repeated twice, with the same notch where the arch leaves the stem and a cleaner line along the x-height. The f loses the corner where the hook meets the stem. In A, M, N, V and W the joints of the diagonals are as thick as the horizontal bars, so these capitals no longer look lighter at the apex and at the base.
+
+Version 1.0 redesigned the lowercase core. The letters a, r, e and d are the wordmark itself; b, c, f, h, i, m, n, o, p, q and u are built from them; k, l and j follow the new ascender height. Every accented form of these letters follows automatically. All other glyphs — the remaining lowercase, the capitals, figures, punctuation and symbols — come from Space Grotesk, so the character set is complete and production-ready.
 
 ## Live specimen
 

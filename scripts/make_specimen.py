@@ -19,12 +19,13 @@ paths = ''.join(f'<path d="{logo[k]}"/>' for k in ['a', 'r', 'e1', 'd', 'e2'])
 logo_svg = f'<svg viewBox="392 200 388 108" xmlns="http://www.w3.org/2000/svg" fill="currentColor">{paths}</svg>'
 
 NEW = set('aredbpqnmhuocfi')
+SHIFT = set('kljAMNVW')
 
 
 def colorize(s):
     out = []
     for ch in s:
-        cls = 'new' if ch in NEW else ('shift' if ch in 'klj' else 'old')
+        cls = 'new' if ch in NEW else ('shift' if ch in SHIFT else 'old')
         out.append(f'<span class="{cls}">{ch}</span>')
     return ''.join(out)
 
@@ -62,14 +63,14 @@ h1 a {{ color: var(--verde); text-decoration: none; }}
 @media (max-width: 700px) {{ .pg, .dark, .foot {{ padding-left: 16px; padding-right: 16px; }} .txt.m {{ font-size: 22px; }} }}
 </style></head><body>
 <div class="pg">
-<h1><a href="https://github.com/aredebr/arede-grotesk">Arede Grotesk</a> · version 1.0 · the typeface of the Arede brand, grown out of the arede wordmark and derived from Space Grotesk (OFL)</h1>
+<h1><a href="https://github.com/aredebr/arede-grotesk">Arede Grotesk</a> · version 1.1 · the typeface of the Arede brand, grown out of the arede wordmark and derived from Space Grotesk (OFL)</h1>
 
 <div class="sec"><div class="lbl">1 · Wordmark (vector from the logo) vs. the word typed with the font</div>
 <div class="row"><span class="logo">{logo_svg}</span><span class="big">arede</span></div></div>
 
 <div class="sec"><div class="lbl">2 · State of the alphabet</div>
-<div class="legend"><span><i style="background:var(--verde)"></i>taken from the wordmark (a r e d) or derived from it (b c f h i m n o p q u)</span><span><i style="background:var(--laranja)"></i>Space Grotesk, adjusted to the new ascender height</span><span><i style="background:#b5b5b5"></i>inherited from Space Grotesk</span></div>
-<div class="alpha">{colorize("abcdefghijklm")}<br>{colorize("nopqrstuvwxyz")}<br><span class="old">ABCDEFGHIJKLM</span><br><span class="old">NOPQRSTUVWXYZ</span><br><span class="old">0123456789</span> <span class="new">áàâãç éêí óôõú</span></div></div>
+<div class="legend"><span><i style="background:var(--verde)"></i>taken from the wordmark (a r e d) or derived from it (b c f h i m n o p q u)</span><span><i style="background:var(--laranja)"></i>Space Grotesk, adjusted (k l j to the new ascender height; joints of A M N V W)</span><span><i style="background:#b5b5b5"></i>inherited from Space Grotesk</span></div>
+<div class="alpha">{colorize("abcdefghijklm")}<br>{colorize("nopqrstuvwxyz")}<br>{colorize("ABCDEFGHIJKLM")}<br>{colorize("NOPQRSTUVWXYZ")}<br><span class="old">0123456789</span> <span class="new">áàâãç éêí óôõú</span></div></div>
 
 <div class="sec"><div class="lbl">3 · The r and the n: the corner of the r becomes the arch of n, m, h, u · on the right, ss06 rounds the left corner too</div>
 <div class="n2">rn m h u <span class="ss">n m h u</span></div></div>
