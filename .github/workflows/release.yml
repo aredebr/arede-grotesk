@@ -3,6 +3,11 @@ name: Release
 on:
   push:
     tags: ["v*"]
+  workflow_dispatch:
+    inputs:
+      version:
+        description: "Version to release, e.g. 1.0.0 (creates the tag v<version> on main)"
+        required: true
 
 permissions:
   contents: write
@@ -12,6 +17,23 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Resolve version and tag
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            VERSION="${{ inputs.version }}"
+            TAG="v$VERSION"
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git tag -a "$TAG" -m "Arede Grotesk $VERSION"
+            git push origin "$TAG"
+          else
+            TAG="${GITHUB_REF_NAME}"
+            VERSION="${TAG#v}"
+          fi
+          echo "VERSION=$VERSION" >> "$GITHUB_ENV"
+          echo "TAG=$TAG" >> "$GITHUB_ENV"
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
@@ -22,7 +44,6 @@ jobs:
         run: ./scripts/build.sh
       - name: Package
         run: |
-          VERSION="${GITHUB_REF_NAME#v}"
           PKG="AredeGrotesk-$VERSION"
           mkdir -p "dist/$PKG"
           cp -r fonts/otf fonts/ttf fonts/webfonts "dist/$PKG/"
@@ -32,6 +53,7 @@ jobs:
       - name: Publish release
         uses: softprops/action-gh-release@v2
         with:
-          name: Arede Grotesk ${{ github.ref_name }}
+          tag_name: ${{ env.TAG }}
+          name: Arede Grotesk ${{ env.TAG }}
           body_path: .github/release-notes.md
           files: dist/${{ env.PKG }}.zip
