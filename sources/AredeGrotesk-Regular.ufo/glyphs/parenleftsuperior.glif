@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="parenleftsuperior" format="2">
+  <advance width="278.5"/>
+  <unicode hex="207D"/>
+  <note>
+parenleft
+</note>
+  <outline>
+    <contour>
+      <point x="267.0" y="267.875" type="curve"/>
+      <point x="267.0" y="339.5" type="line"/>
+      <point x="172.8125" y="339.5"/>
+      <point x="130.5" y="384.1875"/>
+      <point x="130.5" y="484.0" type="curve" smooth="yes"/>
+      <point x="130.5" y="564.0" type="line" smooth="yes"/>
+      <point x="130.5" y="663.8125"/>
+      <point x="172.8125" y="708.5"/>
+      <point x="267.0" y="708.5" type="curve"/>
+      <point x="267.0" y="780.125" type="line"/>
+      <point x="127.5" y="780.125"/>
+      <point x="51.25" y="709.6875"/>
+      <point x="51.25" y="564.0" type="curve" smooth="yes"/>
+      <point x="51.25" y="484.0" type="line" smooth="yes"/>
+      <point x="51.25" y="338.3125"/>
+      <point x="127.5" y="267.875"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>parenleftinferior</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>parenleftinferior</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/08/10 18:12:01</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="naira" format="2">
+  <advance width="791.5625"/>
+  <unicode hex="20A6"/>
+  <outline>
+    <contour>
+      <point x="131.375" y="0.0" type="line"/>
+      <point x="250.625" y="0.0" type="line"/>
+      <point x="250.625" y="619.9375" type="line"/>
+      <point x="267.3125" y="619.9375" type="line"/>
+      <point x="432.625" y="0.0" type="line"/>
+      <point x="660.1875" y="0.0" type="line"/>
+      <point x="660.1875" y="700.0" type="line"/>
+      <point x="540.9375" y="700.0" type="line"/>
+      <point x="540.9375" y="80.25" type="line"/>
+      <point x="524.25" y="80.25" type="line"/>
+      <point x="358.9375" y="700.0" type="line"/>
+      <point x="131.375" y="700.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="40.3125" y="234.625" type="line"/>
+      <point x="751.25" y="234.625" type="line"/>
+      <point x="751.25" y="327.25" type="line"/>
+      <point x="40.3125" y="327.25" type="line"/>
+    </contour>
+    <contour>
+      <point x="40.3125" y="382.375" type="line"/>
+      <point x="751.25" y="382.375" type="line"/>
+      <point x="751.25" y="475.0" type="line"/>
+      <point x="40.3125" y="475.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/08/10 18:12:01</string>
+    </dict>
+  </lib>
+</glyph>

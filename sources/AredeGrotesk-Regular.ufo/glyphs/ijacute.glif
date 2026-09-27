@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ijacute" format="2">
+  <advance width="522.75"/>
+  <unicode hex="E132"/>
+  <note>
+ij
+</note>
+  <anchor x="130.1875" y="0.0" name="bottom"/>
+  <anchor x="130.1875" y="0.0" name="ogonek"/>
+  <anchor x="392.5625" y="494.125" name="top"/>
+  <outline>
+    <component base="iacute"/>
+    <component base="jacute" xOffset="260.375"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/08/10 18:12:01</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="L" format="2">
+  <advance width="542.9375"/>
+  <unicode hex="004C"/>
+  <note>
+L
+</note>
+  <anchor x="293.875" y="0.0" name="bottom"/>
+  <anchor x="188.8125" y="700.0" name="caron"/>
+  <anchor x="189.0" y="700.0" name="sidecaron"/>
+  <anchor x="129.1875" y="700.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="69.75" y="0.0" type="line"/>
+      <point x="518.0" y="0.0" type="line"/>
+      <point x="518.0" y="108.375" type="line"/>
+      <point x="189.0" y="108.375" type="line"/>
+      <point x="189.0" y="700.0" type="line"/>
+      <point x="69.75" y="700.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>I</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/08/10 20:21:05</string>
+    </dict>
+  </lib>
+</glyph>

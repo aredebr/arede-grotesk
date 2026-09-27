@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ecircumflexgrave" format="2">
+  <advance width="556.4375"/>
+  <unicode hex="1EC0"/>
+  <anchor x="294.9375" y="0.0" name="bottom"/>
+  <anchor x="428.4375" y="0.0" name="ogonek"/>
+  <anchor x="297.5" y="874.625" name="top"/>
+  <anchor x="491.125" y="770.625" name="side"/>
+  <outline>
+    <component base="E"/>
+    <component base="circumflexcomb.case" xOffset="66.4375"/>
+    <component base="gravecomb_side.case" xOffset="345.4375" yOffset="70.625"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/08/10 18:12:01</string>
+    </dict>
+  </lib>
+</glyph>

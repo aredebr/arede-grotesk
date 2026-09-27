@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="peseta" format="2">
+  <advance width="749.375"/>
+  <unicode hex="20A7"/>
+  <outline>
+    <contour>
+      <point x="128.125" y="0.0" type="line"/>
+      <point x="247.375" y="0.0" type="line"/>
+      <point x="247.375" y="253.0" type="line"/>
+      <point x="410.6875" y="253.0" type="line" smooth="yes"/>
+      <point x="539.8125" y="253.0"/>
+      <point x="638.625" y="336.375"/>
+      <point x="638.625" y="469.6875" type="curve" smooth="yes"/>
+      <point x="638.625" y="483.3125" type="line" smooth="yes"/>
+      <point x="638.625" y="616.625"/>
+      <point x="544.25" y="700.0"/>
+      <point x="410.6875" y="700.0" type="curve" smooth="yes"/>
+      <point x="128.125" y="700.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="247.375" y="361.375" type="line"/>
+      <point x="247.375" y="591.625" type="line"/>
+      <point x="398.8125" y="591.625" type="line" smooth="yes"/>
+      <point x="472.375" y="591.625"/>
+      <point x="519.375" y="550.375"/>
+      <point x="519.375" y="481.5" type="curve" smooth="yes"/>
+      <point x="519.375" y="471.5" type="line" smooth="yes"/>
+      <point x="519.375" y="402.625"/>
+      <point x="471.1875" y="361.375"/>
+      <point x="398.8125" y="361.375" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="36.875" y="430.1875" type="line"/>
+      <point x="714.125" y="430.1875" type="line"/>
+      <point x="714.125" y="522.8125" type="line"/>
+      <point x="36.875" y="522.8125" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>peso</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>peso</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/08/10 18:38:42</string>
+    </dict>
+  </lib>
+</glyph>

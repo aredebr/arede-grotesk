@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="franc" format="2">
+  <advance width="593.5"/>
+  <unicode hex="20A3"/>
+  <outline>
+    <contour>
+      <point x="127.75" y="0.0" type="line"/>
+      <point x="247.0" y="0.0" type="line"/>
+      <point x="247.0" y="314.125" type="line"/>
+      <point x="538.3125" y="314.125" type="line"/>
+      <point x="538.3125" y="422.5" type="line"/>
+      <point x="247.0" y="422.5" type="line"/>
+      <point x="247.0" y="591.625" type="line"/>
+      <point x="563.25" y="591.625" type="line"/>
+      <point x="563.25" y="700.0" type="line"/>
+      <point x="127.75" y="700.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="36.875" y="110.0" type="line"/>
+      <point x="403.3125" y="110.0" type="line"/>
+      <point x="403.3125" y="202.625" type="line"/>
+      <point x="36.875" y="202.625" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>peso</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>F</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/08/10 18:12:01</string>
+    </dict>
+  </lib>
+</glyph>

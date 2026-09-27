@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="apostrophecomb" format="2">
+  <advance width="254.125"/>
+  <note>
+quoteright
+</note>
+  <anchor x="70.4375" y="494.125" name="_apostrophe"/>
+  <outline>
+    <contour>
+      <point x="70.4375" y="551.5" type="line"/>
+      <point x="101.9375" y="551.5" type="line" smooth="yes"/>
+      <point x="165.8125" y="551.5"/>
+      <point x="199.0" y="583.25"/>
+      <point x="199.0" y="645.3125" type="curve" smooth="yes"/>
+      <point x="199.0" y="728.625" type="line" smooth="yes"/>
+      <point x="199.0" y="776.4375"/>
+      <point x="169.6875" y="805.5625"/>
+      <point x="127.0625" y="805.5625" type="curve" smooth="yes"/>
+      <point x="84.25" y="805.5625"/>
+      <point x="55.125" y="776.4375"/>
+      <point x="55.125" y="733.0" type="curve" smooth="yes"/>
+      <point x="55.125" y="692.625"/>
+      <point x="84.4375" y="664.5"/>
+      <point x="127.0625" y="664.5" type="curve" smooth="yes"/>
+      <point x="137.875" y="664.5" type="line"/>
+      <point x="137.875" y="644.6875" type="line" smooth="yes"/>
+      <point x="137.875" y="617.0"/>
+      <point x="127.25" y="606.5625"/>
+      <point x="98.75" y="606.5625" type="curve" smooth="yes"/>
+      <point x="70.4375" y="606.5625" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>period</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>period</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/08/10 18:12:01</string>
+    </dict>
+  </lib>
+</glyph>

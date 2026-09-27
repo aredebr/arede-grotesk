@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ecedillabreve" format="2">
+  <advance width="591"/>
+  <unicode hex="1E1D"/>
+  <anchor x="304.1" y="0.0" name="bottom"/>
+  <anchor x="388.4" y="0.0" name="ogonek"/>
+  <anchor x="301.1" y="684.0375" name="top"/>
+  <outline>
+    <component base="e"/>
+    <component base="cedillacomb" xOffset="148.7"/>
+    <component base="brevecomb" xOffset="96.4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/08/10 18:12:01</string>
+    </dict>
+  </lib>
+</glyph>

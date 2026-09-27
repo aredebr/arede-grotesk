@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hyphen.case" format="2">
+  <advance width="438.0"/>
+  <note>
+hyphen
+</note>
+  <outline>
+    <contour>
+      <point x="71.0" y="302.125" type="line"/>
+      <point x="367.0" y="302.125" type="line"/>
+      <point x="367.0" y="405.25" type="line"/>
+      <point x="71.0" y="405.25" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>hyphen</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>hyphen</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/08/11 15:33:03</string>
+    </dict>
+  </lib>
+</glyph>

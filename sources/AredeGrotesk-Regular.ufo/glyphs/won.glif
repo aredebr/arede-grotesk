@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="won" format="2">
+  <advance width="1000.125"/>
+  <unicode hex="20A9"/>
+  <outline>
+    <contour>
+      <point x="183.75" y="0.0" type="line"/>
+      <point x="391.3125" y="0.0" type="line"/>
+      <point x="491.625" y="629.5" type="line"/>
+      <point x="508.5" y="629.5" type="line"/>
+      <point x="608.8125" y="0.0" type="line"/>
+      <point x="816.375" y="0.0" type="line"/>
+      <point x="914.1875" y="700.0" type="line"/>
+      <point x="795.5625" y="700.0" type="line"/>
+      <point x="719.3125" y="81.875" type="line"/>
+      <point x="702.4375" y="81.875" type="line"/>
+      <point x="603.75" y="700.0" type="line"/>
+      <point x="396.375" y="700.0" type="line"/>
+      <point x="297.6875" y="81.875" type="line"/>
+      <point x="280.8125" y="81.875" type="line"/>
+      <point x="204.5625" y="700.0" type="line"/>
+      <point x="85.9375" y="700.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="40.125" y="234.625" type="line"/>
+      <point x="960.0" y="234.625" type="line"/>
+      <point x="960.0" y="327.25" type="line"/>
+      <point x="40.125" y="327.25" type="line"/>
+    </contour>
+    <contour>
+      <point x="40.125" y="382.375" type="line"/>
+      <point x="960.0" y="382.375" type="line"/>
+      <point x="960.0" y="475.0" type="line"/>
+      <point x="40.125" y="475.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/08/10 18:12:01</string>
+    </dict>
+  </lib>
+</glyph>

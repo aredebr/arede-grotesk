@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="verticallinemod" format="2">
+  <advance width="185.375"/>
+  <unicode hex="02C8"/>
+  <anchor x="92.6875" y="494.125" name="_top"/>
+  <outline>
+    <contour>
+      <point x="43.75" y="552.75" type="line"/>
+      <point x="141.625" y="552.75" type="line"/>
+      <point x="141.625" y="771.125" type="line"/>
+      <point x="43.75" y="771.125" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/09/27 11:39:48</string>
+    </dict>
+  </lib>
+</glyph>

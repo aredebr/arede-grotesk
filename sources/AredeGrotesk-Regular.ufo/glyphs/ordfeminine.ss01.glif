@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ordfeminine.ss01" format="2">
+  <advance width="468.125"/>
+  <outline>
+    <contour>
+      <point x="191.0" y="340.0" type="curve" smooth="yes"/>
+      <point x="255.5625" y="340.0"/>
+      <point x="287.5625" y="364.75"/>
+      <point x="304.125" y="398.75" type="curve"/>
+      <point x="316.125" y="398.75" type="line"/>
+      <point x="316.125" y="397.75" type="line" smooth="yes"/>
+      <point x="316.125" y="368.375"/>
+      <point x="341.0" y="350.0"/>
+      <point x="372.8125" y="350.0" type="curve" smooth="yes"/>
+      <point x="445.375" y="350.0" type="line"/>
+      <point x="445.375" y="416.75" type="line"/>
+      <point x="412.5625" y="416.75" type="line" smooth="yes"/>
+      <point x="400.375" y="416.75"/>
+      <point x="393.375" y="424.5625"/>
+      <point x="393.375" y="438.5625" type="curve" smooth="yes"/>
+      <point x="393.375" y="700.0" type="line"/>
+      <point x="309.625" y="700.0" type="line"/>
+      <point x="309.625" y="661.4375" type="line"/>
+      <point x="297.625" y="661.4375" type="line"/>
+      <point x="281.6875" y="686.5"/>
+      <point x="251.3125" y="709.25"/>
+      <point x="191.0" y="709.25" type="curve" smooth="yes"/>
+      <point x="107.6875" y="709.25"/>
+      <point x="33.875" y="645.5"/>
+      <point x="33.875" y="530.4375" type="curve" smooth="yes"/>
+      <point x="33.875" y="519.0" type="line" smooth="yes"/>
+      <point x="33.875" y="403.9375"/>
+      <point x="106.6875" y="340.0"/>
+    </contour>
+    <contour>
+      <point x="214.625" y="411.625" type="curve" smooth="yes"/>
+      <point x="160.0625" y="411.625"/>
+      <point x="119.8125" y="449.8125"/>
+      <point x="119.8125" y="520.8125" type="curve" smooth="yes"/>
+      <point x="119.8125" y="528.4375" type="line" smooth="yes"/>
+      <point x="119.8125" y="599.4375"/>
+      <point x="160.875" y="637.625"/>
+      <point x="214.625" y="637.625" type="curve" smooth="yes"/>
+      <point x="268.375" y="637.625"/>
+      <point x="309.625" y="599.8125"/>
+      <point x="309.625" y="528.4375" type="curve" smooth="yes"/>
+      <point x="309.625" y="520.8125" type="line" smooth="yes"/>
+      <point x="309.625" y="449.4375"/>
+      <point x="268.375" y="411.625"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>72</integer>
+        <key>verticalShift</key>
+        <integer>350</integer>
+        <key>weight</key>
+        <integer>-45</integer>
+        <key>width</key>
+        <integer>70</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>ordmasculine</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/10/02 00:02:46</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>=ordfeminine+4</string>
+    </dict>
+  </lib>
+</glyph>

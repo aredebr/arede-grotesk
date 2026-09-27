@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="k" format="2">
+  <advance width="557.0625"/>
+  <unicode hex="006B"/>
+  <note>
+k
+</note>
+  <anchor x="282.0625" y="0.0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="73.375" y="0.0" type="line"/>
+      <point x="187.0" y="0.0" type="line"/>
+      <point x="187.0" y="201.125" type="line"/>
+      <point x="203.875" y="201.125" type="line"/>
+      <point x="393.625" y="0.0" type="line"/>
+      <point x="541.5625" y="0.0" type="line"/>
+      <point x="293.5" y="254.6875" type="line"/>
+      <point x="533.5625" y="494.125" type="line"/>
+      <point x="383.8125" y="494.125" type="line"/>
+      <point x="203.875" y="306.4375" type="line"/>
+      <point x="187.0" y="306.4375" type="line"/>
+      <point x="187.0" y="661.0" type="line"/>
+      <point x="73.375" y="661.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>l</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/08/10 18:12:01</string>
+    </dict>
+  </lib>
+</glyph>

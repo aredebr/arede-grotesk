@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringacutecomb.case" format="2">
+  <advance width="364.0625"/>
+  <anchor x="146.25" y="700.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="131.5625" y="898.5625" type="line"/>
+      <point x="220.8125" y="898.5625" type="line"/>
+      <point x="320.3125" y="1032.8125" type="line"/>
+      <point x="209.3125" y="1032.8125" type="line"/>
+    </contour>
+    <component base="ringcomb.case"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>ringcomb.case</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/08/10 18:12:01</string>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

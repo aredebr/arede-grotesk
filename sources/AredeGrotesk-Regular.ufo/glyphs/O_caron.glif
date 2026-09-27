@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ocaron" format="2">
+  <advance width="674.125"/>
+  <unicode hex="01D1"/>
+  <anchor x="337.0625" y="0.0" name="bottom"/>
+  <anchor x="447.375" y="700.0" name="horn"/>
+  <anchor x="351.4375" y="0.0" name="ogonek"/>
+  <anchor x="337.0625" y="855.0625" name="top"/>
+  <outline>
+    <component base="O"/>
+    <component base="caroncomb.case" xOffset="106.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/08/10 18:12:01</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tlinebelow" format="2">
+  <advance width="457.125"/>
+  <unicode hex="1E6F"/>
+  <anchor x="237.4375" y="0.0" name="bottom"/>
+  <anchor x="276.25" y="757.9375" name="sidecaron"/>
+  <anchor x="213.5625" y="645.5" name="top"/>
+  <outline>
+    <contour>
+      <point x="144.25" y="-165.125" type="line"/>
+      <point x="398.125" y="-165.125" type="line"/>
+      <point x="398.125" y="-74.125" type="line"/>
+      <point x="144.25" y="-74.125" type="line"/>
+    </contour>
+    <component base="t"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>t</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>t</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/08/10 18:12:01</string>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

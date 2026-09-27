@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="IJ.ss04" format="2">
+  <advance width="580.75"/>
+  <note>
+IJ
+</note>
+  <outline>
+    <contour>
+      <point x="297.0" y="-14.0" type="curve" smooth="yes"/>
+      <point x="434.1875" y="-14.0"/>
+      <point x="515.375" y="64.8125"/>
+      <point x="515.375" y="210.0" type="curve" smooth="yes"/>
+      <point x="515.375" y="700.0" type="line"/>
+      <point x="396.125" y="700.0" type="line"/>
+      <point x="396.125" y="210.0" type="line" smooth="yes"/>
+      <point x="396.125" y="138.0"/>
+      <point x="361.75" y="94.375"/>
+      <point x="293.9375" y="94.375" type="curve" smooth="yes"/>
+      <point x="223.25" y="94.375"/>
+      <point x="184.625" y="138.8125"/>
+      <point x="184.625" y="210.0" type="curve" smooth="yes"/>
+      <point x="184.625" y="235.4375" type="line"/>
+      <point x="65.375" y="235.4375" type="line"/>
+      <point x="65.375" y="210.0" type="line" smooth="yes"/>
+      <point x="65.375" y="68.0625"/>
+      <point x="154.875" y="-14.0"/>
+    </contour>
+    <contour>
+      <point x="65.375" y="332.9375" type="line"/>
+      <point x="184.625" y="332.9375" type="line"/>
+      <point x="184.625" y="700.0" type="line"/>
+      <point x="65.375" y="700.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>U</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>U</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/08/10 18:12:01</string>
+    </dict>
+  </lib>
+</glyph>

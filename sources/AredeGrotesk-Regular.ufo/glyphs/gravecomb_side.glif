@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gravecomb_side" format="2">
+  <anchor x="158.25" y="494.125" name="_side"/>
+  <outline>
+    <contour>
+      <point x="123.5625" y="551.5" type="line"/>
+      <point x="215.5" y="551.5" type="line"/>
+      <point x="156.0" y="700.0" type="line"/>
+      <point x="43.75" y="700.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/08/10 18:12:01</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>256</integer>
+    </dict>
+  </lib>
+</glyph>

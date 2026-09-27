@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Amacron" format="2">
+  <advance width="632.875"/>
+  <unicode hex="0100"/>
+  <anchor x="316.4375" y="0.0" name="bottom"/>
+  <anchor x="554.0" y="0.0" name="ogonek"/>
+  <anchor x="316.4375" y="850.25" name="top"/>
+  <outline>
+    <component base="A"/>
+    <component base="macroncomb.case" xOffset="111.3125"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/08/10 18:12:01</string>
+    </dict>
+  </lib>
+</glyph>

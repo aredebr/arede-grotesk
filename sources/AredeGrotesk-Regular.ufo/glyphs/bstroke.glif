@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bstroke" format="2">
+  <advance width="638"/>
+  <unicode hex="0180"/>
+  <anchor x="73.375" y="494.125" name="strokeA"/>
+  <outline>
+    <component base="b"/>
+    <component base="strokeshortcomb" xOffset="-42.6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/08/10 18:12:01</string>
+    </dict>
+  </lib>
+</glyph>

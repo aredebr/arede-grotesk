@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acircumflex.ss01" format="2">
+  <advance width="660.75"/>
+  <anchor x="312.3125" y="0.0" name="bottom"/>
+  <anchor x="548.625" y="0.0" name="ogonek"/>
+  <anchor x="321.6875" y="690.0625" name="top"/>
+  <anchor x="519.0625" y="608.25" name="side"/>
+  <outline>
+    <component base="a.ss01"/>
+    <component base="circumflexcomb" xOffset="91.1875"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/08/10 18:12:01</string>
+    </dict>
+  </lib>
+</glyph>

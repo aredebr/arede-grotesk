@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="P" format="2">
+  <advance width="603.25"/>
+  <unicode hex="0050"/>
+  <note>
+P
+</note>
+  <outline>
+    <contour>
+      <point x="69.75" y="0.0" type="line"/>
+      <point x="189.0" y="0.0" type="line"/>
+      <point x="189.0" y="262.75" type="line"/>
+      <point x="352.3125" y="262.75" type="line" smooth="yes"/>
+      <point x="479.0" y="262.75"/>
+      <point x="575.375" y="344.5"/>
+      <point x="575.375" y="474.5625" type="curve" smooth="yes"/>
+      <point x="575.375" y="488.1875" type="line" smooth="yes"/>
+      <point x="575.375" y="618.25"/>
+      <point x="482.625" y="700.0"/>
+      <point x="352.3125" y="700.0" type="curve" smooth="yes"/>
+      <point x="69.75" y="700.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="189.0" y="371.125" type="line"/>
+      <point x="189.0" y="591.625" type="line"/>
+      <point x="340.4375" y="591.625" type="line" smooth="yes"/>
+      <point x="410.75" y="591.625"/>
+      <point x="456.125" y="552.0"/>
+      <point x="456.125" y="486.375" type="curve" smooth="yes"/>
+      <point x="456.125" y="476.375" type="line" smooth="yes"/>
+      <point x="456.125" y="410.75"/>
+      <point x="409.5625" y="371.125"/>
+      <point x="340.4375" y="371.125" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>I</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/08/10 18:12:01</string>
+    </dict>
+  </lib>
+</glyph>

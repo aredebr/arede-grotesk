@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rightArrow.case" format="2">
+  <advance width="800.0"/>
+  <note>
+arrowright
+</note>
+  <outline>
+    <contour>
+      <point x="525.9375" y="86.5625" type="line"/>
+      <point x="756.0" y="316.625" type="line"/>
+      <point x="756.0" y="390.75" type="line"/>
+      <point x="525.9375" y="620.8125" type="line"/>
+      <point x="453.625" y="548.5" type="line"/>
+      <point x="564.0" y="438.125" type="line"/>
+      <point x="603.125" y="413.6875" type="line"/>
+      <point x="597.6875" y="398.0" type="line"/>
+      <point x="551.5625" y="405.25" type="line"/>
+      <point x="50.0" y="405.25" type="line"/>
+      <point x="50.0" y="302.125" type="line"/>
+      <point x="551.5625" y="302.125" type="line"/>
+      <point x="597.6875" y="309.375" type="line"/>
+      <point x="603.125" y="293.6875" type="line"/>
+      <point x="564.0" y="269.25" type="line"/>
+      <point x="453.625" y="158.875" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/08/10 18:12:01</string>
+    </dict>
+  </lib>
+</glyph>

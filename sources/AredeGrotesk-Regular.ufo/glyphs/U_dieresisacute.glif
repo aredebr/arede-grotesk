@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Udieresisacute" format="2">
+  <advance width="670.5"/>
+  <unicode hex="01D7"/>
+  <anchor x="335.625" y="0.0" name="bottom"/>
+  <anchor x="605.125" y="700.0" name="horn"/>
+  <anchor x="419.3125" y="0.0" name="ogonek"/>
+  <anchor x="335.25" y="888.625" name="top"/>
+  <outline>
+    <component base="U"/>
+    <component base="dieresiscomb.case" xOffset="108.3125"/>
+    <component base="acutecomb.case" xOffset="219.3125" yOffset="188.625"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/08/10 18:12:01</string>
+    </dict>
+  </lib>
+</glyph>

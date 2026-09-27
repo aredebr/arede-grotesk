@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="divisionslash" format="2">
+  <advance width="403.0"/>
+  <unicode hex="2215"/>
+  <outline>
+    <contour>
+      <point x="-11.875" y="-153.8125" type="line"/>
+      <point x="101.125" y="-153.8125" type="line"/>
+      <point x="415.625" y="804.5" type="line"/>
+      <point x="302.625" y="804.5" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>slash</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>slash</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/08/10 18:12:01</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.tosf" format="2">
+  <advance width="620.375"/>
+  <note>
+one.tosn
+</note>
+  <outline>
+    <contour>
+      <point x="302.8125" y="0.0" type="line"/>
+      <point x="416.4375" y="0.0" type="line"/>
+      <point x="416.4375" y="494.125" type="line"/>
+      <point x="211.5625" y="494.125" type="line"/>
+      <point x="106.5625" y="273.625" type="line"/>
+      <point x="223.6875" y="273.625" type="line"/>
+      <point x="286.125" y="414.0" type="line"/>
+      <point x="302.8125" y="414.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="48.25" y="0.0" type="line"/>
+      <point x="577.875" y="0.0" type="line"/>
+      <point x="577.875" y="96.25" type="line"/>
+      <point x="48.25" y="96.25" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/08/10 18:12:01</string>
+    </dict>
+  </lib>
+</glyph>

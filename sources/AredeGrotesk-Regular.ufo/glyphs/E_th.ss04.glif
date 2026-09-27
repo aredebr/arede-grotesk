@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eth.ss04" format="2">
+  <advance width="689.0625"/>
+  <note>
+Eth
+</note>
+  <anchor x="350.1875" y="0.0" name="bottom"/>
+  <anchor x="120.0625" y="494.125" name="stroke"/>
+  <anchor x="350.1875" y="700.0" name="top"/>
+  <outline>
+    <component base="D.ss04" xOffset="50.3125"/>
+    <component base="strokemidcomb" xOffset="-36.625"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>D.ss04</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>strokemidcomb</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>D</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/08/10 18:12:01</string>
+    </dict>
+  </lib>
+</glyph>

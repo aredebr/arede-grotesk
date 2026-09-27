@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="LJ.ss04" format="2">
+  <advance width="1092.5625"/>
+  <anchor x="293.875" y="0.0" name="bottom"/>
+  <anchor x="188.8125" y="700.0" name="caron"/>
+  <anchor x="189.0" y="700.0" name="sidecaron"/>
+  <anchor x="967.5625" y="700.0" name="top"/>
+  <outline>
+    <component base="L"/>
+    <component base="J.ss04" xOffset="542.9375"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/08/10 18:12:01</string>
+    </dict>
+  </lib>
+</glyph>

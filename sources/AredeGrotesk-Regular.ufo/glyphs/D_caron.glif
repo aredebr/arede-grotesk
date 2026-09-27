@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Dcaron" format="2">
+  <advance width="665.25"/>
+  <unicode hex="010E"/>
+  <anchor x="319.4375" y="0.0" name="bottom"/>
+  <anchor x="139.875" y="494.125" name="stroke"/>
+  <anchor x="319.4375" y="855.0625" name="top"/>
+  <outline>
+    <component base="D"/>
+    <component base="caroncomb.case" xOffset="88.375"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/08/10 18:12:01</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="integral" format="2">
+  <advance width="620.0"/>
+  <unicode hex="222B"/>
+  <note>
+integral
+</note>
+  <outline>
+    <contour>
+      <point x="126.875" y="-200.0" type="line"/>
+      <point x="272.0" y="-200.0" type="line" smooth="yes"/>
+      <point x="325.8125" y="-200.0"/>
+      <point x="366.8125" y="-158.1875"/>
+      <point x="366.8125" y="-104.1875" type="curve" smooth="yes"/>
+      <point x="366.8125" y="566.875" type="line" smooth="yes"/>
+      <point x="366.8125" y="586.875"/>
+      <point x="375.8125" y="596.875"/>
+      <point x="393.8125" y="596.875" type="curve" smooth="yes"/>
+      <point x="493.125" y="596.875" type="line"/>
+      <point x="493.125" y="700.0" type="line"/>
+      <point x="348.0" y="700.0" type="line" smooth="yes"/>
+      <point x="294.1875" y="700.0"/>
+      <point x="253.1875" y="658.1875"/>
+      <point x="253.1875" y="604.1875" type="curve" smooth="yes"/>
+      <point x="253.1875" y="-66.875" type="line" smooth="yes"/>
+      <point x="253.1875" y="-86.875"/>
+      <point x="244.1875" y="-96.875"/>
+      <point x="226.1875" y="-96.875" type="curve" smooth="yes"/>
+      <point x="126.875" y="-96.875" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/08/10 18:12:01</string>
+    </dict>
+  </lib>
+</glyph>

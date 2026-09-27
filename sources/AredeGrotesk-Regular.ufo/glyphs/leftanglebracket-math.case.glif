@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="leftanglebracket-math.case" format="2">
+  <advance width="394.625"/>
+  <outline>
+    <contour>
+      <point x="264.875" y="-46.875" type="line"/>
+      <point x="383.5" y="-46.875" type="line"/>
+      <point x="139.5625" y="344.0" type="line"/>
+      <point x="139.5625" y="354.0" type="line"/>
+      <point x="383.5" y="753.0" type="line"/>
+      <point x="264.875" y="753.0" type="line"/>
+      <point x="36.75" y="380.0" type="line"/>
+      <point x="36.75" y="318.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>braceleft</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>braceleft</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/08/10 18:12:01</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>=braceleft-4</string>
+    </dict>
+  </lib>
+</glyph>

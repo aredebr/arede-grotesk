@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Dcroat.ss04" format="2">
+  <advance width="689.0625"/>
+  <note>
+Dcroat
+</note>
+  <anchor x="350.1875" y="0.0" name="bottom"/>
+  <anchor x="120.0625" y="494.125" name="stroke"/>
+  <anchor x="350.1875" y="700.0" name="top"/>
+  <outline>
+    <component base="Eth.ss04"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/08/10 18:12:01</string>
+    </dict>
+  </lib>
+</glyph>

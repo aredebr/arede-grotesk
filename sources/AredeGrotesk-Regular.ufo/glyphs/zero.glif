@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero" format="2">
+  <advance width="646.125"/>
+  <unicode hex="0030"/>
+  <note>
+zero
+</note>
+  <outline>
+    <contour>
+      <point x="323.0625" y="-14.0" type="curve" smooth="yes"/>
+      <point x="487.375" y="-14.0"/>
+      <point x="593.5" y="77.125"/>
+      <point x="593.5" y="263.5" type="curve" smooth="yes"/>
+      <point x="593.5" y="436.5" type="line" smooth="yes"/>
+      <point x="593.5" y="618.0"/>
+      <point x="487.375" y="714.0"/>
+      <point x="323.0625" y="714.0" type="curve" smooth="yes"/>
+      <point x="158.75" y="714.0"/>
+      <point x="52.625" y="618.0"/>
+      <point x="52.625" y="436.5" type="curve" smooth="yes"/>
+      <point x="52.625" y="263.5" type="line" smooth="yes"/>
+      <point x="52.625" y="77.125"/>
+      <point x="158.75" y="-14.0"/>
+    </contour>
+    <contour>
+      <point x="323.0625" y="89.125" type="curve" smooth="yes"/>
+      <point x="220.25" y="89.125"/>
+      <point x="168.25" y="147.9375"/>
+      <point x="168.25" y="259.5" type="curve" smooth="yes"/>
+      <point x="168.25" y="442.125" type="line" smooth="yes"/>
+      <point x="168.25" y="548.8125"/>
+      <point x="224.3125" y="610.875"/>
+      <point x="323.0625" y="610.875" type="curve" smooth="yes"/>
+      <point x="419.375" y="610.875"/>
+      <point x="477.875" y="552.0625"/>
+      <point x="477.875" y="442.125" type="curve" smooth="yes"/>
+      <point x="477.875" y="259.5" type="line" smooth="yes"/>
+      <point x="477.875" y="151.1875"/>
+      <point x="428.3125" y="89.125"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>O</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>O</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/08/10 18:12:01</string>
+    </dict>
+  </lib>
+</glyph>

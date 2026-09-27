@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hbar" format="2">
+  <advance width="615"/>
+  <unicode hex="0127"/>
+  <note>
+hbar
+</note>
+  <anchor x="309.5" y="0.0" name="bottom"/>
+  <anchor x="73.375" y="494.125" name="strokeA"/>
+  <anchor x="129.8" y="661" name="top"/>
+  <outline>
+    <component base="h"/>
+    <component base="strokeshortcomb" xOffset="-42.6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>n</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/08/11 15:50:19</string>
+    </dict>
+  </lib>
+</glyph>

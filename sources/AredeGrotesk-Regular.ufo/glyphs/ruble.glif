@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ruble" format="2">
+  <advance width="661.25"/>
+  <unicode hex="20BD"/>
+  <outline>
+    <contour>
+      <point x="36.875" y="148.5" type="line"/>
+      <point x="127.75" y="148.5" type="line"/>
+      <point x="127.75" y="0.0" type="line"/>
+      <point x="247.0" y="0.0" type="line"/>
+      <point x="247.0" y="148.5" type="line"/>
+      <point x="474.8125" y="148.5" type="line"/>
+      <point x="474.8125" y="241.125" type="line"/>
+      <point x="247.0" y="241.125" type="line"/>
+      <point x="247.0" y="296.25" type="line"/>
+      <point x="413.9375" y="296.25" type="line" smooth="yes"/>
+      <point x="538.8125" y="296.25"/>
+      <point x="633.375" y="369.375"/>
+      <point x="633.375" y="489.9375" type="curve" smooth="yes"/>
+      <point x="633.375" y="503.5625" type="line" smooth="yes"/>
+      <point x="633.375" y="624.125"/>
+      <point x="542.4375" y="700.0"/>
+      <point x="413.9375" y="700.0" type="curve" smooth="yes"/>
+      <point x="127.75" y="700.0" type="line"/>
+      <point x="127.75" y="388.875" type="line"/>
+      <point x="36.875" y="388.875" type="line"/>
+      <point x="36.875" y="296.25" type="line"/>
+      <point x="127.75" y="296.25" type="line"/>
+      <point x="127.75" y="241.125" type="line"/>
+      <point x="36.875" y="241.125" type="line"/>
+    </contour>
+    <contour>
+      <point x="247.0" y="388.875" type="line"/>
+      <point x="247.0" y="591.625" type="line"/>
+      <point x="402.4375" y="591.625" type="line" smooth="yes"/>
+      <point x="470.5625" y="591.625"/>
+      <point x="514.125" y="555.4375"/>
+      <point x="514.125" y="495.25" type="curve" smooth="yes"/>
+      <point x="514.125" y="485.25" type="line" smooth="yes"/>
+      <point x="514.125" y="425.0625"/>
+      <point x="469.5625" y="388.875"/>
+      <point x="402.4375" y="388.875" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>peso</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>P</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/08/10 18:40:01</string>
+    </dict>
+  </lib>
+</glyph>

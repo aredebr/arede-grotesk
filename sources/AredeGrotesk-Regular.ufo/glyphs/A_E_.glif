@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="AE" format="2">
+  <advance width="823.625"/>
+  <unicode hex="00C6"/>
+  <note>
+AE
+</note>
+  <anchor x="425.9375" y="700.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="378.5625" y="0.0" type="line"/>
+      <point x="787.5" y="0.0" type="line"/>
+      <point x="787.5" y="108.375" type="line"/>
+      <point x="496.1875" y="108.375" type="line"/>
+      <point x="496.1875" y="298.4375" type="line"/>
+      <point x="753.875" y="298.4375" type="line"/>
+      <point x="753.875" y="406.8125" type="line"/>
+      <point x="496.1875" y="406.8125" type="line"/>
+      <point x="496.1875" y="591.625" type="line"/>
+      <point x="781.875" y="591.625" type="line"/>
+      <point x="781.875" y="700.0" type="line"/>
+      <point x="378.5625" y="700.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="19.875" y="0.0" type="line"/>
+      <point x="142.6875" y="0.0" type="line"/>
+      <point x="198.3125" y="160.0" type="line"/>
+      <point x="378.5625" y="160.0" type="line"/>
+      <point x="378.5625" y="270.0" type="line"/>
+      <point x="234.6875" y="270.0" type="line"/>
+      <point x="361.875" y="636.0" type="line"/>
+      <point x="378.5625" y="636.0" type="line"/>
+      <point x="378.5625" y="700.0" type="line"/>
+      <point x="267.375" y="700.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>A</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>E</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/08/10 18:12:01</string>
+    </dict>
+  </lib>
+</glyph>

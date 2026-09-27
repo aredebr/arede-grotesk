@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kip" format="2">
+  <advance width="679.875"/>
+  <unicode hex="20AD"/>
+  <outline>
+    <contour>
+      <point x="127.75" y="0.0" type="line"/>
+      <point x="247.0" y="0.0" type="line"/>
+      <point x="247.0" y="301.8125" type="line"/>
+      <point x="263.875" y="301.8125" type="line"/>
+      <point x="516.8125" y="0.0" type="line"/>
+      <point x="673.625" y="0.0" type="line"/>
+      <point x="365.0" y="354.8125" type="line"/>
+      <point x="663.25" y="700.0" type="line"/>
+      <point x="510.6875" y="700.0" type="line"/>
+      <point x="263.875" y="404.1875" type="line"/>
+      <point x="247.0" y="404.1875" type="line"/>
+      <point x="247.0" y="700.0" type="line"/>
+      <point x="127.75" y="700.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="36.875" y="306.6875" type="line"/>
+      <point x="580.5" y="306.6875" type="line"/>
+      <point x="580.5" y="399.3125" type="line"/>
+      <point x="36.875" y="399.3125" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>peso</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>K</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/08/10 18:12:01</string>
+    </dict>
+  </lib>
+</glyph>

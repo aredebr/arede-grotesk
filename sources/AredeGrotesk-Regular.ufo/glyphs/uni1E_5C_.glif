@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1E5C" format="2">
+  <advance width="631.8125"/>
+  <unicode hex="1E5C"/>
+  <anchor x="314.125" y="0.0" name="bottom"/>
+  <anchor x="302.6875" y="850.25" name="top"/>
+  <outline>
+    <component base="R"/>
+    <component base="dotbelowcomb" xOffset="194.8125"/>
+    <component base="macroncomb.case" xOffset="97.5625"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/08/10 18:12:01</string>
+    </dict>
+  </lib>
+</glyph>

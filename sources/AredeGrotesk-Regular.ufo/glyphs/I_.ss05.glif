@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="I.ss05" format="2">
+  <advance width="434.8125"/>
+  <note>
+I
+</note>
+  <anchor x="217.3125" y="0.0" name="bottom"/>
+  <anchor x="217.3125" y="0.0" name="ogonek"/>
+  <anchor x="217.3125" y="700.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="46.375" y="0.0" type="line"/>
+      <point x="388.4375" y="0.0" type="line"/>
+      <point x="388.4375" y="105.125" type="line"/>
+      <point x="276.9375" y="105.125" type="line"/>
+      <point x="276.9375" y="594.875" type="line"/>
+      <point x="388.4375" y="594.875" type="line"/>
+      <point x="388.4375" y="700.0" type="line"/>
+      <point x="46.375" y="700.0" type="line"/>
+      <point x="46.375" y="594.875" type="line"/>
+      <point x="157.875" y="594.875" type="line"/>
+      <point x="157.875" y="105.125" type="line"/>
+      <point x="46.375" y="105.125" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/10/01 23:34:22</string>
+    </dict>
+  </lib>
+</glyph>

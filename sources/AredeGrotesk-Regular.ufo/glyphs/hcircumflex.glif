@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hcircumflex" format="2">
+  <advance width="615"/>
+  <unicode hex="0125"/>
+  <anchor x="309.5" y="0.0" name="bottom"/>
+  <anchor x="73.375" y="494.125" name="strokeA"/>
+  <anchor x="129.8" y="835.625" name="top"/>
+  <anchor x="323.8125" y="770.625" name="side"/>
+  <outline>
+    <component base="h"/>
+    <component base="circumflexcomb.case" xOffset="-101.3" yOffset="-39.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/08/10 18:12:01</string>
+    </dict>
+  </lib>
+</glyph>

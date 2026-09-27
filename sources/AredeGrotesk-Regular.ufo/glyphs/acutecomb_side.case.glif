@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutecomb_side.case" format="2">
+  <anchor x="98.3125" y="700.0" name="_side"/>
+  <outline>
+    <contour>
+      <point x="43.75" y="781.0625" type="line"/>
+      <point x="131.1875" y="781.0625" type="line"/>
+      <point x="194.6875" y="911.1875" type="line"/>
+      <point x="86.9375" y="911.1875" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/08/10 18:12:01</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>249</integer>
+    </dict>
+  </lib>
+</glyph>

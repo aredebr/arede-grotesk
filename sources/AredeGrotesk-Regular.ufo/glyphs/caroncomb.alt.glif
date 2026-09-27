@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caroncomb.alt" format="2">
+  <anchor x="-16.75" y="700.0" name="_sidecaron"/>
+  <outline>
+    <contour>
+      <point x="43.75" y="502.125" type="line"/>
+      <point x="122.625" y="502.125" type="line"/>
+      <point x="161.625" y="700.0" type="line"/>
+      <point x="51.9375" y="700.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/08/10 18:12:01</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>194</integer>
+    </dict>
+  </lib>
+</glyph>

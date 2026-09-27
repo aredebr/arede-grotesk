@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>ascender</key>
+    <integer>700</integer>
+    <key>capHeight</key>
+    <integer>700</integer>
+    <key>copyright</key>
+    <string>Copyright 2026 The Arede Grotesk Project Authors (https://github.com/aredebr/arede-grotesk), with Reserved Font Name "Arede Grotesk". Derived from Space Grotesk, Copyright 2020 The Space Grotesk Project Authors (https://github.com/floriankarsten/space-grotesk).</string>
+    <key>descender</key>
+    <integer>-214</integer>
+    <key>familyName</key>
+    <string>Arede Grotesk</string>
+    <key>italicAngle</key>
+    <integer>0</integer>
+    <key>openTypeHeadCreated</key>
+    <string>2020/10/02 00:19:37</string>
+    <key>openTypeHheaAscender</key>
+    <integer>984</integer>
+    <key>openTypeHheaDescender</key>
+    <integer>-292</integer>
+    <key>openTypeHheaLineGap</key>
+    <integer>0</integer>
+    <key>openTypeNameDescription</key>
+    <string>Arede Grotesk is the typeface of the Arede brand, grown out of the arede wordmark and derived from Space Grotesk.</string>
+    <key>openTypeNameDesigner</key>
+    <string>Marcio Arêde; Florian Karsten; Květoslav Bartoš</string>
+    <key>openTypeNameDesignerURL</key>
+    <string>https://github.com/aredebr/arede-grotesk</string>
+    <key>openTypeNameLicense</key>
+    <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at https://openfontlicense.org</string>
+    <key>openTypeNameLicenseURL</key>
+    <string>https://openfontlicense.org</string>
+    <key>openTypeNameManufacturer</key>
+    <string>Arede</string>
+    <key>openTypeNameManufacturerURL</key>
+    <string>https://arede.dev.br</string>
+    <key>openTypeNameSampleText</key>
+    <string>A rede é nossa, o sistema é seu.</string>
+    <key>openTypeNameUniqueID</key>
+    <string>1.000;ARDE;AredeGrotesk-Regular</string>
+    <key>openTypeNameVersion</key>
+    <string>Version 1.000</string>
+    <key>openTypeOS2Selection</key>
+    <array>
+      <integer>7</integer>
+    </array>
+    <key>openTypeOS2StrikeoutPosition</key>
+    <integer>296</integer>
+    <key>openTypeOS2StrikeoutSize</key>
+    <integer>50</integer>
+    <key>openTypeOS2Type</key>
+    <array/>
+    <key>openTypeOS2TypoAscender</key>
+    <integer>984</integer>
+    <key>openTypeOS2TypoDescender</key>
+    <integer>-292</integer>
+    <key>openTypeOS2TypoLineGap</key>
+    <integer>0</integer>
+    <key>openTypeOS2VendorID</key>
+    <string>ARDE</string>
+    <key>openTypeOS2WeightClass</key>
+    <integer>600</integer>
+    <key>openTypeOS2WinAscent</key>
+    <integer>1150</integer>
+    <key>openTypeOS2WinDescent</key>
+    <integer>292</integer>
+    <key>postscriptBlueValues</key>
+    <array>
+      <integer>-14</integer>
+      <integer>0</integer>
+      <real>494.125</real>
+      <real>508.125</real>
+      <integer>700</integer>
+      <integer>714</integer>
+    </array>
+    <key>postscriptFontName</key>
+    <string>AredeGrotesk-Regular</string>
+    <key>postscriptFullName</key>
+    <string>Arede Grotesk Regular</string>
+    <key>postscriptOtherBlues</key>
+    <array>
+      <integer>-214</integer>
+      <integer>-200</integer>
+    </array>
+    <key>postscriptStemSnapV</key>
+    <array>
+      <real>113.625</real>
+      <real>119.25</real>
+    </array>
+    <key>postscriptUnderlinePosition</key>
+    <integer>-100</integer>
+    <key>postscriptUnderlineThickness</key>
+    <integer>50</integer>
+    <key>styleMapFamilyName</key>
+    <string>Arede Grotesk</string>
+    <key>styleMapStyleName</key>
+    <string>regular</string>
+    <key>styleName</key>
+    <string>Regular</string>
+    <key>unitsPerEm</key>
+    <real>1000.0</real>
+    <key>versionMajor</key>
+    <integer>1</integer>
+    <key>versionMinor</key>
+    <integer>0</integer>
+    <key>xHeight</key>
+    <real>494.125</real>
+  </dict>
+</plist>

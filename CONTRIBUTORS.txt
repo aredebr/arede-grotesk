@@ -1,0 +1,8 @@
+# This is the list of people who have contributed to this project.
+# This does not necessarily list everyone who has contributed code, since some
+# code was written by people who are listed in AUTHORS.txt as an organization.
+#
+# Names should be added to this file as:
+# Name <email address>
+
+Marcio Arêde

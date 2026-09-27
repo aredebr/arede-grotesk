@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="strokemidcomb" format="2">
+  <advance width="456.8125"/>
+  <anchor x="156.6875" y="494.125" name="_stroke"/>
+  <anchor x="138.5625" y="494.125" name="_strokeB"/>
+  <anchor x="228.3125" y="494.125" name="_strokeC"/>
+  <outline>
+    <contour>
+      <point x="63.1875" y="308.625" type="line"/>
+      <point x="393.4375" y="308.625" type="line"/>
+      <point x="393.4375" y="391.125" type="line"/>
+      <point x="63.1875" y="391.125" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/08/10 18:12:01</string>
+    </dict>
+  </lib>
+</glyph>

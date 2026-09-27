@@ -1,0 +1,4 @@
+fontmake>=3.9
+fonttools[woff,unicode]>=4.50
+brotli>=1.1
+fontbakery>=0.13

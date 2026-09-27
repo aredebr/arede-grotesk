@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lslash" format="2">
+  <advance width="608.8125"/>
+  <unicode hex="0141"/>
+  <note>
+Lslash
+</note>
+  <outline>
+    <contour>
+      <point x="135.625" y="0.0" type="line"/>
+      <point x="583.875" y="0.0" type="line"/>
+      <point x="583.875" y="108.375" type="line"/>
+      <point x="254.875" y="108.375" type="line"/>
+      <point x="254.875" y="700.0" type="line"/>
+      <point x="135.625" y="700.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="47.25" y="226.0625" type="line"/>
+      <point x="380.25" y="393.0" type="line"/>
+      <point x="343.4375" y="467.0625" type="line"/>
+      <point x="10.25" y="300.125" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>L</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/08/11 15:55:16</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Scircumflex" format="2">
+  <advance width="607.875"/>
+  <unicode hex="015C"/>
+  <anchor x="315.9375" y="0.0" name="bottom"/>
+  <anchor x="302.125" y="874.625" name="top"/>
+  <anchor x="495.75" y="770.625" name="side"/>
+  <outline>
+    <component base="S"/>
+    <component base="circumflexcomb.case" xOffset="71.0625"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/08/10 18:12:01</string>
+    </dict>
+  </lib>
+</glyph>

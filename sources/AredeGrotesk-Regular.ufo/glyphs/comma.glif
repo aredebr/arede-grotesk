@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="comma" format="2">
+  <advance width="282.75"/>
+  <unicode hex="002C"/>
+  <note>
+comma
+</note>
+  <outline>
+    <contour>
+      <point x="78.0625" y="-141.1875" type="line"/>
+      <point x="122.5625" y="-141.1875" type="line" smooth="yes"/>
+      <point x="192.25" y="-141.1875"/>
+      <point x="227.625" y="-105.8125"/>
+      <point x="227.625" y="-35.9375" type="curve" smooth="yes"/>
+      <point x="227.625" y="73.0625" type="line" smooth="yes"/>
+      <point x="227.625" y="125.375"/>
+      <point x="191.25" y="160.125"/>
+      <point x="141.375" y="160.125" type="curve" smooth="yes"/>
+      <point x="91.5" y="160.125"/>
+      <point x="55.125" y="125.75"/>
+      <point x="55.125" y="76.6875" type="curve" smooth="yes"/>
+      <point x="55.125" y="30.875"/>
+      <point x="91.5" y="-2.6875"/>
+      <point x="141.375" y="-2.6875" type="curve" smooth="yes"/>
+      <point x="157.625" y="-2.6875" type="line"/>
+      <point x="157.625" y="-34.6875" type="line" smooth="yes"/>
+      <point x="157.625" y="-64.8125"/>
+      <point x="144.375" y="-78.0625"/>
+      <point x="114.25" y="-78.0625" type="curve" smooth="yes"/>
+      <point x="78.0625" y="-78.0625" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>period</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>period</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/09/27 11:00:10</string>
+    </dict>
+  </lib>
+</glyph>

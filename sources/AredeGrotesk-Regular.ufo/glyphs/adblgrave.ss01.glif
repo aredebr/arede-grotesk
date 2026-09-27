@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="adblgrave.ss01" format="2">
+  <advance width="660.75"/>
+  <anchor x="312.3125" y="0.0" name="bottom"/>
+  <anchor x="548.625" y="0.0" name="ogonek"/>
+  <anchor x="321.6875" y="494.125" name="top"/>
+  <outline>
+    <component base="a.ss01"/>
+    <component base="dblgravecomb" xOffset="77.8125"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/10/01 23:49:39</string>
+    </dict>
+  </lib>
+</glyph>

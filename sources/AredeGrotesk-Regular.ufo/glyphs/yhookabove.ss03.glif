@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yhookabove.ss03" format="2">
+  <advance width="562.25"/>
+  <anchor x="467.5625" y="0.0" name="bottom"/>
+  <anchor x="280.5625" y="494.125" name="top"/>
+  <outline>
+    <component base="y.ss03"/>
+    <component base="hookabovecomb" xOffset="127.75" yOffset="-10.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>hookabovecomb</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/08/10 18:12:01</string>
+    </dict>
+  </lib>
+</glyph>

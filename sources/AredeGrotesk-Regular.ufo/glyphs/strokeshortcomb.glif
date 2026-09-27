@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="strokeshortcomb" format="2">
+  <unicode hex="0335"/>
+  <anchor x="115.625" y="494.125" name="_strokeA"/>
+  <anchor x="308.3125" y="494.125" name="_strokeB"/>
+  <outline>
+    <contour>
+      <point x="43.75" y="557.875" type="line"/>
+      <point x="380.1875" y="557.875" type="line"/>
+      <point x="380.1875" y="623.0" type="line"/>
+      <point x="43.75" y="623.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/08/10 18:12:01</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>441</integer>
+    </dict>
+  </lib>
+</glyph>

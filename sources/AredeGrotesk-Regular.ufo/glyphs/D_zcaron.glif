@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Dzcaron" format="2">
+  <advance width="1184.0"/>
+  <unicode hex="01C5"/>
+  <anchor x="926.4375" y="0.0" name="bottom"/>
+  <anchor x="139.875" y="494.125" name="stroke"/>
+  <anchor x="923.9375" y="661.125" name="top"/>
+  <outline>
+    <component base="D"/>
+    <component base="zcaron" xOffset="665.25"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/08/10 18:12:01</string>
+    </dict>
+  </lib>
+</glyph>

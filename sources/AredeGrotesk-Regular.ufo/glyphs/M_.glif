@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="M" format="2">
+  <advance width="877.5"/>
+  <unicode hex="004D"/>
+  <note>
+M
+</note>
+  <anchor x="438.75" y="0.0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="69.75" y="0.0" type="line"/>
+      <point x="185.375" y="0.0" type="line"/>
+      <point x="185.375" y="614.0625" type="line"/>
+      <point x="202.25" y="614.0625" type="line"/>
+      <point x="339.5" y="0.0" type="line"/>
+      <point x="538.0" y="0.0" type="line"/>
+      <point x="675.25" y="614.0625" type="line"/>
+      <point x="692.125" y="614.0625" type="line"/>
+      <point x="692.125" y="0.0" type="line"/>
+      <point x="807.75" y="0.0" type="line"/>
+      <point x="807.75" y="700.0" type="line"/>
+      <point x="585.25" y="700.0" type="line"/>
+      <point x="447.1875" y="80.25" type="line"/>
+      <point x="430.3125" y="80.25" type="line"/>
+      <point x="292.25" y="700.0" type="line"/>
+      <point x="69.75" y="700.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>I</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>I</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/08/10 18:12:01</string>
+    </dict>
+  </lib>
+</glyph>

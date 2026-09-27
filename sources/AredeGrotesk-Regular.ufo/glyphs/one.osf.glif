@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.osf" format="2">
+  <advance width="404.8125"/>
+  <note>
+one.tosn
+</note>
+  <outline>
+    <contour>
+      <point x="217.8125" y="0.0" type="line"/>
+      <point x="331.4375" y="0.0" type="line"/>
+      <point x="331.4375" y="494.125" type="line"/>
+      <point x="126.75" y="494.125" type="line"/>
+      <point x="21.75" y="273.625" type="line"/>
+      <point x="138.875" y="273.625" type="line"/>
+      <point x="201.125" y="412.1875" type="line"/>
+      <point x="217.8125" y="412.1875" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>u</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/08/11 15:41:07</string>
+    </dict>
+  </lib>
+</glyph>

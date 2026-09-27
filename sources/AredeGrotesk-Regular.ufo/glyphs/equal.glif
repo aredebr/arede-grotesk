@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="equal" format="2">
+  <advance width="620.0"/>
+  <unicode hex="003D"/>
+  <note>
+equal
+</note>
+  <outline>
+    <contour>
+      <point x="100.8125" y="382.25" type="line"/>
+      <point x="519.1875" y="382.25" type="line"/>
+      <point x="519.1875" y="485.375" type="line"/>
+      <point x="100.8125" y="485.375" type="line"/>
+    </contour>
+    <contour>
+      <point x="100.8125" y="214.625" type="line"/>
+      <point x="519.1875" y="214.625" type="line"/>
+      <point x="519.1875" y="317.75" type="line"/>
+      <point x="100.8125" y="317.75" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/08/10 18:12:01</string>
+    </dict>
+  </lib>
+</glyph>

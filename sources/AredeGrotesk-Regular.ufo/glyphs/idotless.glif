@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="idotless" format="2">
+  <advance width="260.375"/>
+  <unicode hex="0131"/>
+  <note>
+dotlessi
+</note>
+  <anchor x="130.1875" y="0.0" name="bottom"/>
+  <anchor x="130.1875" y="0.0" name="ogonek"/>
+  <anchor x="130.1875" y="494.125" name="top"/>
+  <outline>
+    <contour>
+      <point x="73.375" y="0.0" type="line"/>
+      <point x="187.0" y="0.0" type="line"/>
+      <point x="187.0" y="494.125" type="line"/>
+      <point x="73.375" y="494.125" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>l</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>l</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/08/10 18:12:01</string>
+    </dict>
+  </lib>
+</glyph>

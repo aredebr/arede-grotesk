@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="NJ" format="2">
+  <advance width="1274.1875"/>
+  <unicode hex="01CA"/>
+  <anchor x="335.625" y="0.0" name="bottom"/>
+  <anchor x="1072.0" y="700.0" name="top"/>
+  <outline>
+    <component base="N"/>
+    <component base="J" xOffset="668.3125"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/08/10 18:12:01</string>
+    </dict>
+  </lib>
+</glyph>

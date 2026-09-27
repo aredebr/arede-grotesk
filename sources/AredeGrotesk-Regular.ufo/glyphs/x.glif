@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="x" format="2">
+  <advance width="592.375"/>
+  <unicode hex="0078"/>
+  <note>
+x
+</note>
+  <outline>
+    <contour>
+      <point x="30.5" y="0.0" type="line"/>
+      <point x="165.0" y="0.0" type="line"/>
+      <point x="287.75" y="174.5" type="line"/>
+      <point x="304.625" y="174.5" type="line"/>
+      <point x="427.375" y="0.0" type="line"/>
+      <point x="561.875" y="0.0" type="line"/>
+      <point x="377.5625" y="249.4375" type="line"/>
+      <point x="558.9375" y="494.125" type="line"/>
+      <point x="426.25" y="494.125" type="line"/>
+      <point x="304.625" y="322.75" type="line"/>
+      <point x="287.75" y="322.75" type="line"/>
+      <point x="166.125" y="494.125" type="line"/>
+      <point x="33.4375" y="494.125" type="line"/>
+      <point x="214.8125" y="249.4375" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/08/11 15:32:28</string>
+    </dict>
+  </lib>
+</glyph>

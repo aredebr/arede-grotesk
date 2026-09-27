@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bar.case" format="2">
+  <advance width="253.125"/>
+  <note>
+bar
+</note>
+  <outline>
+    <contour>
+      <point x="69.75" y="-156.0" type="line"/>
+      <point x="183.375" y="-156.0" type="line"/>
+      <point x="183.375" y="856.0" type="line"/>
+      <point x="69.75" y="856.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>I</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>I</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/08/10 18:12:01</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="D" format="2">
+  <advance width="665.25"/>
+  <unicode hex="0044"/>
+  <note>
+D.alt
+</note>
+  <anchor x="319.4375" y="0.0" name="bottom"/>
+  <anchor x="139.875" y="494.125" name="stroke"/>
+  <anchor x="319.4375" y="700.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="46.375" y="0.0" type="line"/>
+      <point x="330.25" y="0.0" type="line" smooth="yes"/>
+      <point x="517.125" y="0.0"/>
+      <point x="618.625" y="94.6875"/>
+      <point x="618.625" y="284.1875" type="curve" smooth="yes"/>
+      <point x="618.625" y="415.625" type="line" smooth="yes"/>
+      <point x="618.625" y="605.125"/>
+      <point x="517.125" y="700.0"/>
+      <point x="330.25" y="700.0" type="curve" smooth="yes"/>
+      <point x="46.375" y="700.0" type="line"/>
+      <point x="46.375" y="594.875" type="line"/>
+      <point x="139.875" y="594.875" type="line"/>
+      <point x="139.875" y="105.125" type="line"/>
+      <point x="46.375" y="105.125" type="line"/>
+    </contour>
+    <contour>
+      <point x="259.125" y="108.375" type="line"/>
+      <point x="259.125" y="591.4375" type="line"/>
+      <point x="331.875" y="591.4375" type="line" smooth="yes"/>
+      <point x="445.375" y="591.4375"/>
+      <point x="499.375" y="531.9375"/>
+      <point x="499.375" y="419.4375" type="curve" smooth="yes"/>
+      <point x="499.375" y="280.375" type="line" smooth="yes"/>
+      <point x="499.375" y="167.875"/>
+      <point x="445.375" y="108.375"/>
+      <point x="331.875" y="108.375" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>I.ss05</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=O-6</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/08/10 18:12:01</string>
+    </dict>
+  </lib>
+</glyph>

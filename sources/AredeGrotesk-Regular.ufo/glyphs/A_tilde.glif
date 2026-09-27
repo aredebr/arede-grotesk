@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Atilde" format="2">
+  <advance width="632.875"/>
+  <unicode hex="00C3"/>
+  <anchor x="316.4375" y="0.0" name="bottom"/>
+  <anchor x="554.0" y="0.0" name="ogonek"/>
+  <anchor x="316.4375" y="862.5" name="top"/>
+  <outline>
+    <component base="A"/>
+    <component base="tildecomb.case" xOffset="95.625"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/08/10 18:12:01</string>
+    </dict>
+  </lib>
+</glyph>

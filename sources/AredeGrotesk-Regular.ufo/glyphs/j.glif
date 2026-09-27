@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="j" format="2">
+  <advance width="262.375"/>
+  <unicode hex="006A"/>
+  <anchor x="132.1875" y="639.375" name="top"/>
+  <outline>
+    <component base="jdotless"/>
+    <component base="dotaccentcomb" xOffset="12.875" yOffset="-39"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/08/11 15:54:53</string>
+    </dict>
+  </lib>
+</glyph>

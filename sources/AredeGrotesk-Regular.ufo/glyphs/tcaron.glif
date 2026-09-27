@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tcaron" format="2">
+  <advance width="457.125"/>
+  <unicode hex="0165"/>
+  <anchor x="237.4375" y="0.0" name="bottom"/>
+  <anchor x="276.25" y="757.9375" name="sidecaron"/>
+  <anchor x="213.5625" y="645.5" name="top"/>
+  <outline>
+    <component base="t"/>
+    <component base="caroncomb.alt" xOffset="293.0" yOffset="57.9375"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>t</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/09/27 11:41:20</string>
+    </dict>
+  </lib>
+</glyph>

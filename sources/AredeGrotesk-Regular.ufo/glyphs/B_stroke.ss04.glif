@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Bstroke.ss04" format="2">
+  <advance width="636.875"/>
+  <anchor x="69.75" y="346.25" name="strokeB"/>
+  <outline>
+    <component base="B.ss04"/>
+    <component base="strokemidcomb" xOffset="-68.8125" yOffset="-147.875"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>B</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/08/10 18:12:01</string>
+    </dict>
+  </lib>
+</glyph>

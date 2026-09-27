@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutecomb.case" format="2">
+  <anchor x="43.75" y="753.125" name="_ringacute"/>
+  <anchor x="115.9375" y="700.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="43.75" y="758.0" type="line"/>
+      <point x="146.375" y="758.0" type="line"/>
+      <point x="246.25" y="885.75" type="line"/>
+      <point x="113.0" y="885.75" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/08/10 18:12:01</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>264</integer>
+    </dict>
+  </lib>
+</glyph>

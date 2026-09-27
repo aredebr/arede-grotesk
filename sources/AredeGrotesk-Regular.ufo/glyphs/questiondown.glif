@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="questiondown" format="2">
+  <advance width="578.5625"/>
+  <unicode hex="00BF"/>
+  <outline>
+    <contour>
+      <point x="287.8125" y="-214.375" type="curve" smooth="yes"/>
+      <point x="431.8125" y="-214.375"/>
+      <point x="542.3125" y="-132.25"/>
+      <point x="542.3125" y="5.1875" type="curve" smooth="yes"/>
+      <point x="542.3125" y="29.3125" type="line"/>
+      <point x="425.0625" y="29.3125" type="line"/>
+      <point x="425.0625" y="3.75" type="line" smooth="yes"/>
+      <point x="425.0625" y="-74.4375"/>
+      <point x="364.6875" y="-113.25"/>
+      <point x="287.8125" y="-113.25" type="curve" smooth="yes"/>
+      <point x="212.75" y="-113.25"/>
+      <point x="160.375" y="-76.0625"/>
+      <point x="160.375" y="-11.875" type="curve" smooth="yes"/>
+      <point x="160.375" y="47.375"/>
+      <point x="195.8125" y="76.0625"/>
+      <point x="257.875" y="104.625" type="curve" smooth="yes"/>
+      <point x="277.6875" y="113.75" type="line" smooth="yes"/>
+      <point x="338.75" y="142.0"/>
+      <point x="362.0625" y="181.0"/>
+      <point x="362.0625" y="247.3125" type="curve" smooth="yes"/>
+      <point x="362.0625" y="275.375" type="line"/>
+      <point x="243.1875" y="275.375" type="line"/>
+      <point x="243.1875" y="252.0" type="line" smooth="yes"/>
+      <point x="243.1875" y="222.0625"/>
+      <point x="234.8125" y="208.6875"/>
+      <point x="210.4375" y="197.6875" type="curve" smooth="yes"/>
+      <point x="190.625" y="188.5625" type="line" smooth="yes"/>
+      <point x="118.0" y="154.8125"/>
+      <point x="43.125" y="106.25"/>
+      <point x="43.125" y="-11.875" type="curve" smooth="yes"/>
+      <point x="43.125" y="-130.5625"/>
+      <point x="145.8125" y="-214.375"/>
+    </contour>
+    <component base="period" xScale="-1.0" yScale="-1.0" xOffset="442.1875" yOffset="494.125"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>period</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/08/10 18:12:01</string>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>
