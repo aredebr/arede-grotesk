@@ -39,9 +39,9 @@
     <key>openTypeNameSampleText</key>
     <string>A rede é nossa, o sistema é seu.</string>
     <key>openTypeNameUniqueID</key>
-    <string>1.000;ARDE;AredeGrotesk-Regular</string>
+    <string>1.100;ARDE;AredeGrotesk-Regular</string>
     <key>openTypeNameVersion</key>
-    <string>Version 1.000</string>
+    <string>Version 1.100</string>
     <key>openTypeOS2Selection</key>
     <array>
       <integer>7</integer>
@@ -104,7 +104,7 @@
     <key>versionMajor</key>
     <integer>1</integer>
     <key>versionMinor</key>
-    <integer>0</integer>
+    <integer>100</integer>
     <key>xHeight</key>
     <real>494.125</real>
   </dict>

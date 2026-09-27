@@ -10,8 +10,8 @@ four
       <point x="486.25" y="0.0" type="line"/>
       <point x="486.25" y="142.375" type="line"/>
       <point x="601.75" y="142.375" type="line"/>
-      <point x="601.75" y="245.5" type="line"/>
-      <point x="486.25" y="245.5" type="line"/>
+      <point x="601.75" y="250.75" type="line"/>
+      <point x="486.25" y="250.75" type="line"/>
       <point x="486.25" y="700.0" type="line"/>
       <point x="276.0625" y="700.0" type="line"/>
       <point x="33.125" y="276.5" type="line"/>
@@ -19,11 +19,11 @@ four
       <point x="370.625" y="142.375" type="line"/>
     </contour>
     <contour>
-      <point x="142.625" y="245.5" type="line"/>
+      <point x="142.625" y="250.75" type="line"/>
       <point x="142.625" y="260.375" type="line"/>
-      <point x="353.75" y="626.625" type="line"/>
-      <point x="370.625" y="626.625" type="line"/>
-      <point x="370.625" y="245.5" type="line"/>
+      <point x="333.57423208191125" y="591.625" type="line"/>
+      <point x="370.625" y="591.625" type="line"/>
+      <point x="370.625" y="250.75" type="line"/>
     </contour>
   </outline>
   <lib>

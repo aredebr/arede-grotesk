@@ -10,18 +10,18 @@ W
     <contour>
       <point x="129.6875" y="0.0" type="line"/>
       <point x="337.25" y="0.0" type="line"/>
-      <point x="437.5625" y="629.5" type="line"/>
-      <point x="454.4375" y="629.5" type="line"/>
+      <point x="431.5270179706116" y="591.625" type="line"/>
+      <point x="460.4729820293884" y="591.625" type="line"/>
       <point x="554.75" y="0.0" type="line"/>
       <point x="762.3125" y="0.0" type="line"/>
       <point x="860.125" y="700.0" type="line"/>
       <point x="741.5" y="700.0" type="line"/>
-      <point x="665.25" y="81.875" type="line"/>
-      <point x="648.375" y="81.875" type="line"/>
+      <point x="668.5189585439838" y="108.375" type="line"/>
+      <point x="644.1441102123357" y="108.375" type="line"/>
       <point x="549.6875" y="700.0" type="line"/>
       <point x="342.3125" y="700.0" type="line"/>
-      <point x="243.625" y="81.875" type="line"/>
-      <point x="226.75" y="81.875" type="line"/>
+      <point x="247.8558897876643" y="108.375" type="line"/>
+      <point x="223.4810414560162" y="108.375" type="line"/>
       <point x="150.5" y="700.0" type="line"/>
       <point x="31.875" y="700.0" type="line"/>
     </contour>
