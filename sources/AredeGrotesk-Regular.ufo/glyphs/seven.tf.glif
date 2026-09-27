@@ -15,8 +15,8 @@ seven
       <point x="580.125" y="561.1875" type="line"/>
       <point x="580.125" y="700.0" type="line"/>
       <point x="39.125" y="700.0" type="line"/>
-      <point x="39.125" y="595.25" type="line"/>
-      <point x="457.4375" y="595.25" type="line"/>
+      <point x="39.125" y="591.625" type="line"/>
+      <point x="457.4375" y="591.625" type="line"/>
       <point x="457.4375" y="580.5625" type="line"/>
       <point x="195.9375" y="151.25" type="line" smooth="yes"/>
       <point x="167.6875" y="105.1875"/>
